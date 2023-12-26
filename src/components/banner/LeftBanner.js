@@ -26,7 +26,7 @@ const LeftBanner = () => {
           I use animation as a third dimension by which to simplify experiences and kuiding thro each and every interaction. I'm not adding motion just to spruce things up, but doing it in ways that.
         </p>
       </div>
-      <div className="flex justify-between">
+      <div className="flex flex-col xl:flex-row gap-6 lgl:gap-3 justify-between">
         <div>
           <h2 className="text-base uppercase font-titleFont mb-4">Find me in</h2>
           <div className="flex gap-4">
